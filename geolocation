@@ -1,3 +1,52 @@
-z="
-";mz='if [';TDz='gion';oz='ts =';Az='br="';xBz='TUS ';GBz='else';bDz='p"';qCz='  ${';qBz='╚═══';ZDz='}Zip';eCz='url ';sz='en';LDz=' cod';kz=' -f ';bBz='██║█';oBz='═╝ ╚';fBz='══╝$';tCz='g}";';pz='= 20';Ez='bg="';ICz='ER  ';MDz='e ${';DCz='tus ';ABz=' [[ ';SDz='".re';dCz='=$(c';xz='cess';NCz='}CHA';yz='elif';wBz=' STA';JBz='led"';wCz='nfo ';PCz=' LIN';WBz='████';lCz='n/$1';iDz='}Tim';vDz='net';WDz='y   ';Gz='by="';nDz='ne"';Pz='[00m';hDz='n"';ADz='".st';BDz='atus';Tz='){';tz='stat';oDz='}Isp';xCz='| jq';iz='t -d';QCz='K   ';tBz='${bb';Kz='bp="';IBz='}fai';KCz='AS  ';HCz='ELOP';TBz='╗   ';ACz='}=${';BBz='$sts';tDz='}As ';vz='${bg';VDz='}Cit';pBz='═╝  ';Rz='[5m"';aDz='".zi';Jz='[94m';XDz='".ci';OBz='echo';qz='0 ]]';Oz='re="';jCz='.com';lBz='█╗╚█';ZCz='MM${';NBz='(){';CDz='}Que';GCz='}DEV';DDz='ry  ';RCz='${bc';UCz='tps:';GDz='}Cou';wz='}suc';SCz='}\e[';ECz='    ';CBz=' == ';PDz='}Reg';XBz='█╗ █';dDz='".la';Dz='"';vCz='o $i';HBz='${br';kCz='/jso';pDz='".is';gBz='█║  ';LBz='}';gz='TP" ';az='ww.g';XCz='Soci';YBz='██╗$';bCz='loc(';rBz='══╝╚';TCz='4mht';Fz='[92m';MCz='e}';cDz='}Lat';Xz='Is h';aCz='re}';wDz='loc ';IDz='".co';KDz='y"';vBz='WORK';uDz='".as';sCz=' ${b';FCz='${re';DBz='202 ';eBz='██╗█';hBz='   █';WCz='me/F';eDz='t"';Hz='[93m';Lz='[95m';CCz='$sta';rDz='".or';Vz='$(cu';xDz='$1';gDz='".lo';Bz='\033';Sz='net(';lz='2)';uz='us="';Nz='[96m';LCz=' ${r';jz=' " "';ez='grep';uCz=' ech';jBz='════';ODz='e"';lDz='".ti';fCz='-s h';EDz='".qu';KBz='fi';VCz='//t.';FDz='ery"';UBz='  ██';mDz='mezo';cCz='info';Qz='bl="';MBz='logo';QDz='ion ';Yz='ttps';dz='m | ';bz='oogl';ZBz='{re}';Cz='[91m';RDz='name';oCz='tf "';BCz='bb} ';Iz='bb="';Uz='sts=';cBz='█╔══';sDz='g"';sBz='╚═╝╚';SBz='r}██';RBz='}${b';jDz='ezon';cz='e.co';UDz='Name';nCz='prin';Zz='://w';NDz='yCod';pCz='}Sta';fz=' "HT';HDz='ntry';kBz='██║$';PBz=' -e ';nBz='r}╚═';rz='; th';gCz='ttp:';dBz='══╝█';YCz='ety_';JDz='untr';Wz='rl -';FBz='then';YDz='ty"';yBz='${by';Mz='bc="';aBz='║   ';uBz='}NET';EBz=']]; ';OCz='NNEL';rCz='bp}:';iCz='-api';hCz='//ip';VBz='██╗ ';mBz='█╔╝╚';fDz='}Lon';yCz=' -r ';QBz='${bl';JCz='}LUC';mCz=')';kDz='e   ';nz='[ $s';iBz='██║╚';hz='| cu';qDz='}Org';
-eval "$Az$Bz$Cz$Dz$z$Ez$Bz$Fz$Dz$z$Gz$Bz$Hz$Dz$z$Iz$Bz$Jz$Dz$z$Kz$Bz$Lz$Dz$z$Mz$Bz$Nz$Dz$z$Oz$Bz$Pz$Dz$z$Qz$Bz$Rz$z$Sz$Tz$z$Uz$Vz$Wz$Xz$Yz$Zz$az$bz$cz$dz$ez$fz$gz$hz$iz$jz$kz$lz$z$mz$nz$oz$pz$qz$rz$sz$z$tz$uz$vz$wz$xz$Dz$z$yz$ABz$BBz$CBz$DBz$EBz$FBz$z$tz$uz$vz$wz$xz$Dz$z$GBz$z$tz$uz$HBz$IBz$JBz$z$KBz$z$LBz$z$MBz$NBz$z$OBz$PBz$Dz$z$QBz$RBz$SBz$TBz$UBz$TBz$VBz$WBz$VBz$WBz$XBz$WBz$YBz$ZBz$z$QBz$RBz$SBz$aBz$UBz$aBz$bBz$cBz$dBz$cBz$eBz$cBz$fBz$ZBz$z$QBz$RBz$SBz$aBz$UBz$aBz$bBz$gBz$hBz$WBz$bBz$WBz$YBz$ZBz$z$QBz$RBz$SBz$aBz$UBz$aBz$bBz$gBz$hBz$cBz$iBz$jBz$kBz$ZBz$z$QBz$RBz$SBz$WBz$lBz$WBz$mBz$WBz$eBz$gBz$bBz$WBz$kBz$ZBz$z$QBz$RBz$nBz$jBz$oBz$jBz$pBz$qBz$rBz$pBz$sBz$jBz$fBz$ZBz$z$tBz$uBz$vBz$wBz$xBz$yBz$ACz$BCz$CCz$DCz$ECz$ECz$ECz$ECz$FCz$LBz$z$tBz$GCz$HCz$ICz$ECz$yBz$ACz$BCz$HBz$JCz$KCz$ECz$ECz$ECz$ECz$LCz$MCz$z$tBz$NCz$OCz$PCz$QCz$yBz$ACz$BCz$RCz$SCz$TCz$UCz$VCz$WCz$XCz$YCz$ZCz$aCz$z$Dz$z$LBz$z$bCz$Tz$z$cCz$dCz$eCz$fCz$gCz$hCz$iCz$jCz$kCz$lCz$mCz$z$nCz$oCz$yBz$pCz$DCz$ECz$qCz$rCz$sCz$tCz$uCz$vCz$wCz$xCz$yCz$ADz$BDz$Dz$z$nCz$oCz$yBz$CDz$DDz$ECz$qCz$rCz$sCz$tCz$uCz$vCz$wCz$xCz$yCz$EDz$FDz$z$nCz$oCz$yBz$GDz$HDz$ECz$qCz$rCz$sCz$tCz$uCz$vCz$wCz$xCz$yCz$IDz$JDz$KDz$z$nCz$oCz$yBz$GDz$HDz$LDz$MDz$rCz$sCz$tCz$uCz$vCz$wCz$xCz$yCz$IDz$JDz$NDz$ODz$z$nCz$oCz$yBz$PDz$QDz$RDz$qCz$rCz$sCz$tCz$uCz$vCz$wCz$xCz$yCz$SDz$TDz$UDz$Dz$z$nCz$oCz$yBz$VDz$WDz$ECz$qCz$rCz$sCz$tCz$uCz$vCz$wCz$xCz$yCz$XDz$YDz$z$nCz$oCz$yBz$ZDz$ECz$ECz$qCz$rCz$sCz$tCz$uCz$vCz$wCz$xCz$yCz$aDz$bDz$z$nCz$oCz$yBz$cDz$ECz$ECz$qCz$rCz$sCz$tCz$uCz$vCz$wCz$xCz$yCz$dDz$eDz$z$nCz$oCz$yBz$fDz$ECz$ECz$qCz$rCz$sCz$tCz$uCz$vCz$wCz$xCz$yCz$gDz$hDz$z$nCz$oCz$yBz$iDz$jDz$kDz$qCz$rCz$sCz$tCz$uCz$vCz$wCz$xCz$yCz$lDz$mDz$nDz$z$nCz$oCz$yBz$oDz$ECz$ECz$qCz$rCz$sCz$tCz$uCz$vCz$wCz$xCz$yCz$pDz$bDz$z$nCz$oCz$yBz$qDz$ECz$ECz$qCz$rCz$sCz$tCz$uCz$vCz$wCz$xCz$yCz$rDz$sDz$z$nCz$oCz$yBz$tDz$ECz$ECz$qCz$rCz$sCz$tCz$uCz$vCz$wCz$xCz$yCz$uDz$Dz$z$LBz$z$vDz$z$MBz$z$wDz$xDz"
+#!/bin/bash
+br="\033[91m"
+bg="\033[92m"
+by="\033[93m"
+bb="\033[94m"
+bp="\033[95m"
+bc="\033[96m"
+re="\033[00m"
+bl="\033[5m"
+net(){
+	sts=$(curl -Is https://www.google.com | grep "HTTP" | cut -d " " -f 2)
+	if [[ $sts == 200 ]]; then
+    	status="${bg}success"
+	elif [[ $sts == 202 ]]; then
+    	status="${bg}success"
+	else
+  		status="${br}failed"
+	fi
+}
+logo(){
+echo -e "
+${bl}${br}██╗     ██╗   ██╗ ██████╗ █████╗ ███████╗${re}
+${bl}${br}██║     ██║   ██║██╔════╝██╔══██╗██╔════╝${re}
+${bl}${br}██║     ██║   ██║██║     ███████║███████╗${re}
+${bl}${br}██║     ██║   ██║██║     ██╔══██║╚════██║${re}
+${bl}${br}███████╗╚██████╔╝╚██████╗██║  ██║███████║${re}
+${bl}${br}╚══════╝ ╚═════╝  ╚═════╝╚═╝  ╚═╝╚══════╝${re}
+
+${bb}NETWORK STATUS ${by}=${bb} $status                 ${re}
+${bb}DEVELOPER      ${by}=${bb} ${br}LUCAS                   ${re}
+${bb}CHANNEL LINK   ${by}=${bb} ${bc}\e[4mhttps://t.me/FSociety_MM${re}
+"
+}
+loc(){
+	info=$(curl -s http://ip-api.com/json/$1)
+	printf "${by}Status       ${bp}: ${bg}"; echo $info | jq -r ".status" 
+	printf "${by}Query        ${bp}: ${bg}"; echo $info | jq -r ".query" 
+	printf "${by}Country      ${bp}: ${bg}"; echo $info | jq -r ".country" 
+	printf "${by}Country code ${bp}: ${bg}"; echo $info | jq -r ".countryCode" 
+	printf "${by}Region name  ${bp}: ${bg}"; echo $info | jq -r ".regionName" 
+	printf "${by}City         ${bp}: ${bg}"; echo $info | jq -r ".city" 
+	printf "${by}Zip          ${bp}: ${bg}"; echo $info | jq -r ".zip" 
+	printf "${by}Lat          ${bp}: ${bg}"; echo $info | jq -r ".lat" 
+	printf "${by}Lon          ${bp}: ${bg}"; echo $info | jq -r ".lon" 
+	printf "${by}Timezone     ${bp}: ${bg}"; echo $info | jq -r ".timezone" 
+	printf "${by}Isp          ${bp}: ${bg}"; echo $info | jq -r ".isp" 
+	printf "${by}Org          ${bp}: ${bg}"; echo $info | jq -r ".org" 
+	printf "${by}As           ${bp}: ${bg}"; echo $info | jq -r ".as"
+}
+net
+logo
+loc $1
