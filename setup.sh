@@ -1,3 +1,43 @@
-z="
-";FCz='ty_M';Pz='[00m';vBz='ath}';tz=' the';JCz='clea';QCz='  ██';Zz='Linu';kBz=' geo';dDz='n ip';MBz='apt ';BCz='ps:/';sBz='chmo';iBz='f 1)';ZDz=''\''${b';FDz=' LIN';WBz=' $ap';GDz='K   ';NCz='}${b';eCz='██║╚';uBz=' ${p';dBz='$PAT';xCz='${br';tCz='    ';qBz='on $';bDz='oloc';UBz='/nul';VCz='{re}';Lz='[95m';LBz='|| $';oCz='╚═╝╚';CCz='/t.m';Oz='re="';ECz='ocie';Yz=' in';RCz='██╗ ';Bz='\033';JBz='ev/n';fBz='cut ';rCz='ELOP';CBz='exit';DCz='e/FS';oBz='eolo';gBz='-d "';Mz='bc="';nDz='4.16';Gz='by="';ZBz='l jq';nCz='══╝╚';Ez='bg="';yCz='}LUC';DBz='fi';hDz=''\''"';cCz='█║  ';mCz='╚═══';QBz=' -y';Iz='bb="';Qz='bl="';Vz='s)';NBz='inst';UCz='██╗$';ZCz='══╝█';lz='="pk';Jz='[94m';Xz=' $os';dz=';;';JDz='4mht';xBz='xdg-';GBz='-v c';pBz='cati';gz='="br';cBz='cho ';bz='pt="';Az='br="';EDz='NNEL';Kz='bp="';Cz='[91m';ACz=' htt';NDz='Soci';iDz='bg}e';bBz='=$(e';Uz='me -';PBz='curl';dCz='   █';UDz='y}*$';xz='ease';HCz='slee';fz=' apt';rBz='/';PCz='╗   ';XCz='██║█';qDz='}'\''"';SDz='{bb}';uCz='${by';qz='UID ';vCz='}=${';ICz='p 5';lDz='n 14';WCz='║   ';GCz='M';VDz='] ${';gCz='██║$';cDz='atio';lBz='loca';BDz=' ${r';EBz='comm';FBz='and ';bCz='══╝$';MDz='me/F';qCz='}DEV';HBz='url ';YBz='stal';IBz='> /d';RDz='"\t$';kCz='═╝ ╚';aDz='r}ge';KDz='tps:';aCz='██╗█';Nz='[96m';XBz='t in';aBz='path';gDz='{bg}';nBz='mv g';IDz='}\e[';BBz='root';LDz='//t.';rz='!= 0';cz='apt"';kDz='le  ';jDz='xamp';ABz=' as ';ADz='AS  ';hCz='█╗╚█';PDz='MM${';oDz='7.99';az='x) a';uz='n';pz='[ $E';pDz='${bg';QDz='re}';KCz='r';VBz='l ||';Dz='"';lCz='═╝  ';OBz='all ';mDz='9.15';SBz='q > ';Fz='[92m';TBz='/dev';Rz='[5m"';fDz='ess$';hz='ew";';OCz='r}██';wBz='/geo';iCz='█╔╝╚';vz='echo';Tz='(una';mz='g";;';XDz='un T';SCz='████';DDz='}CHA';eBz='H | ';WDz='bg}r';kz='oid)';yBz='open';TDz='[${b';ODz='ety_';Hz='[93m';jBz='[ -f';fCz='════';nz='esac';YDz='ype ';KBz='ull ';Sz='os=$';wz=' "Pl';TCz='█╗ █';YCz='█╔══';eDz='Addr';tBz='d +x';hBz=':" -';jz='Andr';iz=';';wCz='bb} ';yz=' run';sCz='ER  ';ez='Mac)';MCz='${bl';LCz=' -e ';mBz='tion';pCz='${bb';oz='if [';RBz='-v j';CDz='e}';jCz='r}╚═';Wz='case';sz=' ]];';HDz='${bc';
-eval "$Az$Bz$Cz$Dz$z$Ez$Bz$Fz$Dz$z$Gz$Bz$Hz$Dz$z$Iz$Bz$Jz$Dz$z$Kz$Bz$Lz$Dz$z$Mz$Bz$Nz$Dz$z$Oz$Bz$Pz$Dz$z$Qz$Bz$Rz$z$Sz$Tz$Uz$Vz$z$Wz$Xz$Yz$z$Zz$az$bz$cz$dz$z$ez$fz$gz$hz$iz$z$jz$kz$fz$lz$mz$z$nz$z$oz$pz$qz$rz$sz$tz$uz$z$vz$wz$xz$yz$ABz$BBz$Dz$z$CBz$z$DBz$z$EBz$FBz$GBz$HBz$IBz$JBz$KBz$LBz$MBz$NBz$OBz$PBz$QBz$z$EBz$FBz$RBz$SBz$TBz$UBz$VBz$WBz$XBz$YBz$ZBz$QBz$z$aBz$bBz$cBz$dBz$eBz$fBz$gBz$hBz$iBz$z$oz$jBz$kBz$lBz$mBz$sz$tz$uz$z$nBz$oBz$pBz$qBz$aBz$rBz$z$sBz$tBz$uBz$vBz$wBz$lBz$mBz$z$DBz$z$xBz$yBz$ACz$BCz$CCz$DCz$ECz$FCz$GCz$z$HCz$ICz$z$JCz$KCz$z$vz$LCz$Dz$z$MCz$NCz$OCz$PCz$QCz$PCz$RCz$SCz$RCz$SCz$TCz$SCz$UCz$VCz$z$MCz$NCz$OCz$WCz$QCz$WCz$XCz$YCz$ZCz$YCz$aCz$YCz$bCz$VCz$z$MCz$NCz$OCz$WCz$QCz$WCz$XCz$cCz$dCz$SCz$XCz$SCz$UCz$VCz$z$MCz$NCz$OCz$WCz$QCz$WCz$XCz$cCz$dCz$YCz$eCz$fCz$gCz$VCz$z$MCz$NCz$OCz$SCz$hCz$SCz$iCz$SCz$aCz$cCz$XCz$SCz$gCz$VCz$z$MCz$NCz$jCz$fCz$kCz$fCz$lCz$mCz$nCz$lCz$oCz$fCz$bCz$VCz$z$pCz$qCz$rCz$sCz$tCz$uCz$vCz$wCz$xCz$yCz$ADz$tCz$tCz$tCz$tCz$BDz$CDz$z$pCz$DDz$EDz$FDz$GDz$uCz$vCz$wCz$HDz$IDz$JDz$KDz$LDz$MDz$NDz$ODz$PDz$QDz$z$Dz$z$vz$LCz$RDz$SDz$TDz$UDz$SDz$VDz$WDz$XDz$YDz$ZDz$aDz$bDz$cDz$dDz$eDz$fDz$gDz$hDz$z$vz$LCz$RDz$SDz$TDz$UDz$SDz$VDz$iDz$jDz$kDz$ZDz$aDz$bDz$cDz$lDz$mDz$nDz$oDz$pDz$qDz$z$CBz"
+#!/bin/bash
+br="\033[91m"
+bg="\033[92m"
+by="\033[93m"
+bb="\033[94m"
+bp="\033[95m"
+bc="\033[96m"
+re="\033[00m"
+bl="\033[5m"
+os=$(uname -s)
+case $os in
+	Linux) apt="apt";;
+	Mac) apt="brew";;
+	Android) apt="pkg";;
+esac
+if [[ $EUID != 0 ]]; then
+	echo "Please run as root"
+	exit
+fi
+command -v curl > /dev/null || $apt install curl -y
+command -v jq > /dev/null || $apt install jq -y
+path=$(echo $PATH | cut -d ":" -f 1)
+if [[ -f geolocation ]]; then
+	mv geolocation $path/
+	chmod +x ${path}/geolocation
+fi
+xdg-open https://t.me/FSociety_MM
+sleep 5
+clear
+echo -e "
+${bl}${br}██╗     ██╗   ██╗ ██████╗ █████╗ ███████╗${re}
+${bl}${br}██║     ██║   ██║██╔════╝██╔══██╗██╔════╝${re}
+${bl}${br}██║     ██║   ██║██║     ███████║███████╗${re}
+${bl}${br}██║     ██║   ██║██║     ██╔══██║╚════██║${re}
+${bl}${br}███████╗╚██████╔╝╚██████╗██║  ██║███████║${re}
+${bl}${br}╚══════╝ ╚═════╝  ╚═════╝╚═╝  ╚═╝╚══════╝${re}
+
+${bb}DEVELOPER      ${by}=${bb} ${br}LUCAS                   ${re}
+${bb}CHANNEL LINK   ${by}=${bb} ${bc}\e[4mhttps://t.me/FSociety_MM${re}
+"
+echo -e "\t${bb}[${by}*${bb}] ${bg}run Type '${br}geolocation ipAddress${bg}'"
+echo -e "\t${bb}[${by}*${bb}] ${bg}example  '${br}geolocation 149.154.167.99${bg}'"
+exit
