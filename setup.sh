@@ -7,18 +7,30 @@ bp="\033[95m"
 bc="\033[96m"
 re="\033[00m"
 bl="\033[5m"
-os=$(uname -s)
-case $os in
-	Linux) apt="apt";;
-	Mac) apt="brew";;
-	Android) apt="pkg";;
-esac
 if [[ $EUID != 0 ]]; then
 	echo "Please run as root"
 	exit
 fi
-command -v curl > /dev/null || $apt install curl -y
-command -v jq > /dev/null || $apt install jq -y
+pkgs=(curl jq)
+for pkg in ${pkgs[@]}; do
+	type $pkg &>/dev/null || {
+		if [[ $(command -v pkg) ]]; then
+			pkg install $pkg -y
+		elif [[ $(command -v apt) ]]; then
+			sudo apt install $pkg -y
+		elif [[ $(command -v apt-get) ]]; then
+			sudo apt-get install $pkg -y
+		elif [[ $(command -v pacman) ]]; then
+			sudo pacman -S $pkg --noconfirm
+		elif [[ $(command -v dnf) ]]; then
+			sudo dnf -y install $pkg
+		elif [[ $(command -v yum) ]]; then
+			sudo yum -y install $pkg
+		elif [[ $(command -v brew) ]]; then
+			sudo brew install $pkg
+		fi
+	}
+done
 path=$(echo $PATH | cut -d ":" -f 1)
 if [[ -f geolocation ]]; then
 	mv geolocation $path/
@@ -33,8 +45,7 @@ ${bl}${br}██║     ██║   ██║██╔════╝██╔�
 ${bl}${br}██║     ██║   ██║██║     ███████║███████╗${re}
 ${bl}${br}██║     ██║   ██║██║     ██╔══██║╚════██║${re}
 ${bl}${br}███████╗╚██████╔╝╚██████╗██║  ██║███████║${re}
-${bl}${br}╚══════╝ ╚═════╝  ╚═════╝╚═╝  ╚═╝╚══════╝${re}
-
+${bl}${br}╚══════╝ ╚═════╝  ╚═════╝╚═╝  ╚═╝╚══════╝${re}\n
 ${bb}DEVELOPER      ${by}=${bb} ${br}LUCAS                   ${re}
 ${bb}CHANNEL LINK   ${by}=${bb} ${bc}\e[4mhttps://t.me/FSociety_MM${re}
 "
