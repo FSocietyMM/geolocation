@@ -5,6 +5,7 @@ __Writer Lucas Account > t.me/Demon_lucas__
   ```
   cd $HOME
   ```
+  __git install__
   ```
   pkg install git -y
   ```
