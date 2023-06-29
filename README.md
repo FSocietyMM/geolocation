@@ -16,13 +16,22 @@ __Writer Lucas Account > t.me/Demon_lucas__
   ```
   bash setup.sh
   ```
-  ```
 ### Installation (Kali Terminator)
   ```
   cd $HOME
+  ```
+  ```
   sudo su
+  ```
+  ```
   apt install git -y
+  ```
+  ```
   git clone https://github.com/FSocietyMM/geolocation
+  ```
+  ```
   cd geolocation
+  ```
+  ```
   bash setup.sh
   ```
