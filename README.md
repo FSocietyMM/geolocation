@@ -7,9 +7,15 @@ __Writer Lucas Account > t.me/Demon_lucas__
   ```
   pkg install git -y
   ```
+  ```
   git clone https://github.com/FSocietyMM/geolocation
+  ```
+  ```
   cd geolocation
+  ```
+  ```
   bash setup.sh
+  ```
   ```
 ### Installation (Kali Terminator)
   ```
