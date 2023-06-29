@@ -1,6 +1,7 @@
 ### IP Geolocation Tracker Tool From F-Society
 __Writer Lucas Account > t.me/Demon_lucas__
 ### Installation (Termux)
+  __change to home directory__
   ```
   cd $HOME
   ```
